@@ -1,7 +1,7 @@
 {
-  "name": "manzdev-retos-template",
+  "name": "manzdev-retos-bingo",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "scripts": {
     "dev": "vite",
     "build": "rm -rf dist && vite build",
